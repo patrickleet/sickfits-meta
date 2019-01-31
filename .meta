@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "backend": "git@github.com:patrickleet/sickfits-backend.git",
+    "frontend": "git@github.com:patrickleet/sickfits-frontend.git"
+  }
+}
